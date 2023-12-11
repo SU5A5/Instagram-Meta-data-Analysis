@@ -27,7 +27,7 @@ The project involves the following steps:
 
 ### Model Performance Metrics:
 
-- **Accuracy:** ~88%
+- **Accuracy:** ~0.88
 - **Precision:** Class 0 - 0.87, Class 1 - 0.90
 - **Recall:** Class 0 - 0.90, Class 1 - 0.87
 - **F1-score:** Class 0 - 0.89, Class 1 - 0.88
